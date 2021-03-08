@@ -77,3 +77,5 @@ user_groups:
 I am a DPhil student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/#/). I work on the economic impact on automation, with a specific interest in firms and the labour market. 
 
 I completed my undergraduate studies at [St Hilda's College](https://www.st-hildas.ox.ac.uk/) in Oxford, before working at data analytics consultancy [dunnhumby](https://www.dunnhumby.com/). I embarked on graduate study at [UCL](https://www.ucl.ac.uk/statistics/), taking courses in statistics and machine learning, before returning to [Oxford](https://www.economics.ox.ac.uk/#/) to train as an economist. I have taught undergraduate economics throughout my studies, and I am particularly interested in [various approaches](https://www.core-econ.org/teaching-macroeconomics/) to changing the economics syllabus.
+
+I am taking up a postdoctoral research role at the [University of Kent](https://www.kent.ac.uk/) with [Professor Anthony Savagar](https://www.asavagar.com/) from April 2021. Our research will be investigating scale economies in the UK, to better understand productivity and market power.
