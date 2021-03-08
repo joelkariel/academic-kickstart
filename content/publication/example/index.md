@@ -38,9 +38,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Published paper
-   url: https://doi.org/10.1111/labr.12192
+# links:
+# - name: Published paper
+#   url: https://doi.org/10.1111/labr.12192
 
 url_pdf: ''
 url_code: ''
@@ -71,7 +71,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: Conference_Presentation.pdf
+slides: "Conference_Presentation.pdf"
 ---
 
 {{% callout note %}}
