@@ -15,7 +15,7 @@ role: DPhil candidate in Economics
 # Organizations/Affiliations
 organizations:
 - name: University of Oxford
-  url: ""
+  url: "https://www.economics.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroeconomics, labour economics, firms, applied microeconometrics, automation, productivity, inequality and machine learning.
