@@ -5,11 +5,11 @@ title: "Job Creators or Job Killers? Heterogeneous Effects of Industrial Robots 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Joel Kariel
 
 # Author notes (optional)
 author_notes:
-- ''
+- 'DPhil Candidate in Economics, University of Oxford'
 
 date: "2021-01-29T00:00:00Z"
 doi: ""
