@@ -48,7 +48,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1111/labr.12192'
 url_video: ''
 
 # Featured image
