@@ -11,11 +11,11 @@ authors:
 author_notes:
 - "DPhil Candidate in Economics, University of Oxford"
 
-date: "2021-03-08T00:00:00Z"
+date: "2021-03-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-08T00:00:00Z"
+publishDate: "2021-03-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publication_types: ["3"]
 publication: *Working Paper*
 publication_short: *Working Paper*
 
-abstract: Advanced technologies have the potential to boost productivity, and both create and displace jobs. Research on automation has typically looked at aggregates. This paper dives deeper into the heterogeneity among the agents making the adoption choice: firms. I compile a set of novel findings regarding firm adoption across a range of cutting-edge technologies, such as Artificial Intelligence and Cloud Computing. Leveraging the panel dataset, I investigate the relationship between technology, employment, and productivity. I find technology adopters grow faster once they start using automation technologies. I embed technology adoption in a heterogeneous firm model to investigate the general equilibrium implications of automation. The model can reconcile my firm-level evidence of technology adoption boosting firm size, with the various macro studies suggesting a negative overall effect on employment: the general equilibrium effect on prices, entry and exit are crucial.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: This paper investigates the adoption of automation technologies at a firm level using a novel dataset. I build a strucutral model of firm dynamics to better understand the implications of these findings for the macroeconomy. I reconcile the finding that automating firms grow, but on aggregate, such technologies seem to reduce employment.
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -64,14 +64,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
