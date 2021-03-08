@@ -24,8 +24,8 @@ publishDate: "2021-03-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Working Paper*
-publication_short: In *Working Paper*
+publication: Currently a *Working Paper*
+publication_short: A *Working Paper*
 
 abstract: "Advanced technologies have the potential to boost productivity, and both create and displace jobs. Research on automation has typically looked at aggregates. This paper dives deeper into the heterogeneity among the agents making the adoption choice: firms. I compile a set of novel findings regarding firm adoption across a range of cutting-edge technologies, such as Artificial Intelligence and Cloud Computing. Leveraging the panel dataset, I investigate the relationship between technology, employment, and productivity. I find technology adopters grow faster once they start using automation technologies. I embed technology adoption in a heterogeneous firm model to investigate the general equilibrium implications of automation. The model can reconcile my firm-level evidence of technology adoption boosting firm size, with the various macro studies suggesting a negative overall effect on employment: the general equilibrium effect on prices, entry and exit are crucial."
 
