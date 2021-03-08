@@ -8,7 +8,7 @@
 theme: my_theme
 day_night: false
 font: classic
-font_size: S
+font_size: M
 
 # SEO
 
@@ -38,11 +38,11 @@ appointment_url: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: ''
+    name: 'Contact me on Twitter'
     link: 'https://twitter.com/joelkariel'
   - icon: github
     icon_pack: fab
-    name: ''
+    name: 'Check out my code on Github'
     link: 'https://github.com/joelkariel'
   
 # Site header
