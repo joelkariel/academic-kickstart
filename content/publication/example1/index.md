@@ -1,11 +1,11 @@
 ---
-title: "An example conference paper"
+title: "Universal basic income and Covid-19 pandemic"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Joel Kariel
 - Salil B. Patel
 
 # Author notes (optional)
