@@ -27,10 +27,10 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: 
+abstract: Advanced technologies have the potential to boost productivity, and both create and displace jobs. Research on automation has typically looked at aggregates. This paper dives deeper into the heterogeneity among the agents making the adoption choice: firms. I compile a set of novel findings regarding firm adoption across a range of cutting-edge technologies, such as Artificial Intelligence and Cloud Computing. Leveraging the panel dataset, I investigate the relationship between technology, employment, and productivity. I find technology adopters grow faster once they start using automation technologies. I embed technology adoption in a heterogeneous firm model to investigate the general equilibrium implications of automation. The model can reconcile my firm-level evidence of technology adoption boosting firm size, with the various macro studies suggesting a negative overall effect on employment: the general equilibrium effect on prices, entry and exit are crucial.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: This paper investigates the adoption of automation technologies at a firm level using a novel dataset. I build a strucutral model of firm dynamics to better understand the implications of these findings for the macroeconomy. I reconcile the finding that automating firms grow, but on aggregate, such technologies seem to reduce employment.
 
 tags: []
 
