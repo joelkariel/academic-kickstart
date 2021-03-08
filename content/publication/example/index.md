@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
+- ''
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
@@ -21,15 +21,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *LABOUR*
+publication_short: In *LABOUR*
 
 abstract: There is concern about robots taking our jobs. This analysis looks at the impact of industrial robot adoption in the UK. Using a novel instrument to deal with endogeneity of robot adoption, estimates suggest that higher robot use is associated with increased employment and some evidence of a positive effect on part‐time pay, contrary to evidence from other countries. However, there is a large amount of heterogeneity across industries. The results show that industrial robots have directly replaced workers in automobile manufacturing. On the other hand, they have had positive effects on other areas of the labour market such as services.
+
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper investigates the impact of industrial robot adoption on the labour market in the UK.
 
 tags: []
 
@@ -53,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
