@@ -39,8 +39,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+ - name: Published paper
+   url: https://doi.org/10.1111/labr.12192
 
 url_pdf: ''
 url_code: ''
