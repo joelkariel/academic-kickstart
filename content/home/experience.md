@@ -25,7 +25,7 @@ experience:
   - title: Stipendiary Lecturer in Economics
     company: St Hilda's College, University of Oxford
     company_url: 'https://www.st-hildas.ox.ac.uk/content/mr-joel-kariel'
-    location: Oxofrd
+    location: Oxford
     date_start: '2017-10-01'
     date_end: ''
     description: |2-
@@ -42,7 +42,7 @@ experience:
     date_end: '2020-08-01'
     description: |2-
 
-         * Assisting participants with Matlab code covering: DSGE models, estimation methods (Kalman filter, Bayesian estimation, MCMC), projection methods, parameterized expectations, heterogeneous agents models, continuous time models.
+        * Assisting participants with Matlab code covering: DSGE models, estimation methods (Kalman filter, Bayesian estimation, MCMC), projection methods, parameterized expectations, heterogeneous agents models, continuous time models.
 
   - title: Non-stipendiary Lecturer in Economics
     company: Christ Church College, University of Oxford
@@ -52,7 +52,7 @@ experience:
     date_end: 2020-10-01
     description: |2-
 
-  * Teaching undergraduates in Core Macroeconomics, Time Series Econometrics.
+        * Teaching undergraduates in Core Macroeconomics, Time Series Econometrics.
 
   - title: Consultant
     company: dunnhumby
