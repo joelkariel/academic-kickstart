@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "DPhil Candidate in Economics, University of Oxford"
+- "Clinical Research Fellow, Nuffield Department of Clinical Neurosciences, University of Oxford"
 
 date: "2021-01-26T00:00:00Z"
 doi: ""
