@@ -17,50 +17,47 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Stipendiary Lecturer in Economics"
-  company = "St Hilda's College, University of Oxford"
-  company_url = ""
-  location = "Oxford"
-  date_start = "2017-10-01"
-  date_end = ""
-  description = """
+experience
+  title = Stipendiary Lecturer in Economics
+  company = St Hilda's College, University of Oxford
+  company_url = ''
+  location = Oxford
+  date_start = 2017-10-01
+  date_end = ''
+  description = |2-
 
   * Teaching undergraduates in Introductory Microeconomics, Macroeconomics, Mathematical Methods, Probability & Statistics.
   * Conducting interviews for applicants for undergraduate economics.
-  """
 
-[[experience]]
-  title = "TA for Computational Macroeconomics Summer School"
-  company = "Wouter den Haan and Petr Sedlacek"
-  company_url = ""
-  location = "Oxford"
-  date_start = "2020-08-01"
-  date_end = "2020-08-01"
-  description = """
+experience
+  title = TA for Computational Macroeconomics Summer School
+  company = Wouter den Haan and Petr Sedlacek
+  company_url = 'http://www.wouterdenhaan.com/summercourse.html'
+  location = Oxford
+  date_start = 2020-08-01
+  date_end = 2020-08-01
+  description = |2-
 
   * Assisting participants with Matlab code covering: DSGE models, estimation methods (Kalman filter, Bayesian estimation, MCMC), projection methods, parameterized expectations, heterogeneous agents models, continuous time models.
-  """
 
-[[experience]]
-  title = "Non-stipendiary Lecturer in Economics"
-  company = "Christ Church College, University of Oxford"
-  company_url = ""
-  location = "Oxford"
-  date_start = "2020-04-01"
-  date_end = "2020-10-01"
-  description = """
+experience
+  title = Non-stipendiary Lecturer in Economics
+  company = Christ Church College, University of Oxford
+  company_url = ''
+  location = Oxford
+  date_start = 2020-04-01
+  date_end = 2020-10-01
+  description = |2-
 
   * Teaching undergraduates in Core Macroeconomics, Time Series Econometrics.
-  """
 
-[[experience]]
-  title = "Consultant"
-  company = "dunnhumby"
-  company_url = ""
-  location = "London"
-  date_start = "2014-09-01"
-  date_end = "2015-08-31"
-  description = ""
+experience
+  title = Consultant
+  company = dunnhumby
+  company_url = ''
+  location = London
+  date_start = 2014-09-01
+  date_end = 2015-08-31
+  description = ''
 
 +++
