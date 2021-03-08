@@ -7,6 +7,7 @@ title: "Job Creators or Job Killers? Heterogeneous Effects of Industrial Robots 
 authors:
 - admin
 
+
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
@@ -21,16 +22,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *LABOUR*
 publication_short: In *LABOUR*
 
-abstract:There is concern about robots taking our jobs. This analysis looks at the impact of industrial robot adoption in the UK. Using a novel instrument to deal with endogeneity of robot adoption, estimates suggest that higher robot use is associated with increased employment and some evidence of a positive effect on part‐time pay, contrary to evidence from other countries. However, there is a large amount of heterogeneity across industries. The results show that industrial robots have directly replaced workers in automobile manufacturing. On the other hand, they have had positive effects on other areas of the labour market such as services.
+abstract: There is concern about robots taking our jobs. This analysis looks at the impact of industrial robot adoption in the UK. Using a novel instrument to deal with endogeneity of robot adoption, estimates suggest that higher robot use is associated with increased employment and some evidence of a positive effect on part‐time pay, contrary to evidence from other countries. However, there is a large amount of heterogeneity across industries. The results show that industrial robots have directly replaced workers in automobile manufacturing. On the other hand, they have had positive effects on other areas of the labour market such as services.
 
 # Summary. An optional shortened abstract.
-summary: []
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -63,7 +64,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
