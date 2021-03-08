@@ -27,7 +27,7 @@ publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *the British Medical Journal*
-publication_short: In *BMJ*
+publication_short: In *the BMJ*
 
 abstract: 
 
