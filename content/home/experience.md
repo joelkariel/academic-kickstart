@@ -22,6 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Researcher in Economics
+    company: University of Kent
+    company_url: 'https://www.kent.ac.uk/economics'
+    location: Canterbury
+    date_start: '2021-04-01'
+    date_end: ''
+    description: ''
   - title: Stipendiary Lecturer in Economics
     company: St Hilda's College, University of Oxford
     company_url: 'https://www.st-hildas.ox.ac.uk/content/mr-joel-kariel'
