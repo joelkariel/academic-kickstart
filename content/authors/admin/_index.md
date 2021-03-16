@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: DPhil candidate in Economics
-role: Postdoctoral researcher in Economics
 
 # Organizations/Affiliations
 organizations:
