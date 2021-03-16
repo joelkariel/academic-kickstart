@@ -11,11 +11,14 @@ superuser: true
 
 # Role/position
 role: DPhil candidate in Economics
+role: Postdoctoral researcher in Economics
 
 # Organizations/Affiliations
 organizations:
 - name: University of Oxford
   url: "https://www.economics.ox.ac.uk/"
+- name: University of Kent
+  url: "https://www.kent.ac.uk/economics"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroeconomics, labour economics, firms, applied microeconometrics, automation, productivity, inequality and machine learning.
@@ -48,7 +51,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:joel.kariel@economics.ox.ac.uk".
+  link: "mailto:joel.kariel@economics.ox.ac.uk"
+#link: '#contact'  # For a direct email link, use "mailto:joel.kariel@economics.ox.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/joelkariel
