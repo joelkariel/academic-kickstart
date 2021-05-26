@@ -41,8 +41,16 @@ experience:
         * Teaching undergraduates in Introductory Microeconomics, Macroeconomics, Mathematical Methods, Probability & Statistics.
         * Conducting interviews for applicants for undergraduate economics.
         
+  - title: Research Fellow
+    company: Institute for the Future of Work
+    company_url: 'https://www.ifow.org/'
+    location: London
+    date_start: '2021-05-01'
+    date_end: ''
+    description: ''
+    
   - title: TA for Computational Macroeconomics Summer School
-    company: Wouter den Haan and Petr Sedlacek
+    company: Wouter den Haan and [Petr Sedláček](https://users.ox.ac.uk/~econ0506/)
     company_url: 'http://www.wouterdenhaan.com/summercourse.html'
     location: Oxford
     date_start: '2020-08-01'
