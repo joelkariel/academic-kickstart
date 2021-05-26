@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am a DPhil student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/#/), under the supervision of [Professor Petr Sedl\'{a}cek](https://users.ox.ac.uk/~econ0506/). I work on the economic impact of automation, with a specific interest in firms and the labour market. 
+I am a DPhil student in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/#/), under the supervision of [Professor Petr Sedláček](https://users.ox.ac.uk/~econ0506/). I work on the economic impact of automation, with a specific interest in firms and the labour market. 
 
 I completed my undergraduate studies at [St Hilda's College](https://www.st-hildas.ox.ac.uk/) in Oxford, before working at data analytics consultancy [dunnhumby](https://www.dunnhumby.com/). I embarked on graduate study at [UCL](https://www.ucl.ac.uk/statistics/), taking courses in statistics and machine learning, before returning to [Oxford](https://www.economics.ox.ac.uk/#/) to train as an economist. I have taught undergraduate economics throughout my studies, and I am particularly interested in [various approaches](https://www.core-econ.org/teaching-macroeconomics/) to changing the economics syllabus.
 
