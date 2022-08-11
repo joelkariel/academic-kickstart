@@ -8,9 +8,9 @@ authors:
   - admin
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
 date: '2022-05-01T00:00:00Z'
 doi: ''
@@ -73,7 +73,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: firms_that_automate
 ---
 
 {{% callout note %}}
