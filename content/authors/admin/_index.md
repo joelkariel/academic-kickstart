@@ -67,3 +67,5 @@ email: ''
 highlight_name: true
 ---
 
+I am a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed by DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supverision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/). My doctoral research explored the impact of new technologies - such as Artificial Intelligence and Robots - on the macroeconomy. My subsequent research has focused on measuring returns to scale in the UK, understanding its relationship with productivity, and working with heterogeneous firm models. I am in the early stages of various projects on `green technologies': looking at their adoption, relationship with climate policy, and impact on firms.
+
