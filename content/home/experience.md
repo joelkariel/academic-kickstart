@@ -30,6 +30,14 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
     description: ''
+- title: Stipdendiary Lecturer
+    company: St Hilda's College, University of Oxford
+    company_url: ''
+    company_logo: 
+    location: Oxford, UK
+    date_start: '2017-10-01'
+    date_end: '2021-07-01'
+    description: ''
 
 design:
   columns: '2'
