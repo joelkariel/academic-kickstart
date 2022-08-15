@@ -30,13 +30,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: ''
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/joelkariel
+    link: ''
   - icon: github
     icon_pack: fab
-    link: https://github.com/joelkariel
+    link: ''
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
