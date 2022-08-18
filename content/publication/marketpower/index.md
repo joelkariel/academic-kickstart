@@ -43,8 +43,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-  - name: 'Paper'
-  - url: 'https://www.dropbox.com/s/i1i4voezby31a8d/HwangSavagarKariel_UKmarketpower.pdf?dl=0'
+  - name: ''
+  - url: https://www.dropbox.com/s/i1i4voezby31a8d/HwangSavagarKariel_UKmarketpower.pdf?dl=0
 
 url_pdf: ''
 url_code: ''
