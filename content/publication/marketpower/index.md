@@ -7,17 +7,19 @@ title: 'Market Power in the UK'
 authors:
   - admin
   - anthony
+  - 'Kyung In Hwang'
 
 # Author notes (optional)
 author_notes:
   - 'Postdoctoral Reseacher, University of Kent'
   - 'Senior Lecturer, University of Kent'
+  - 'Korea Institute for Industrial Economics and Trade'
 
-date: '2021-01-01T00:00:00Z'
+date: '2022-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-01-01T00:00:00Z'
+publishDate: '2022-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -41,7 +43,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-  - name: Link
+  - name: 'Paper'
   - url: 'https://www.dropbox.com/s/i1i4voezby31a8d/HwangSavagarKariel_UKmarketpower.pdf?dl=0'
 
 url_pdf: ''
