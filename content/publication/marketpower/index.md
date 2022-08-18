@@ -42,11 +42,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-  - name: ''
-  - url: https://www.dropbox.com/s/i1i4voezby31a8d/HwangSavagarKariel_UKmarketpower.pdf?dl=0
+# links:
+#  - name: ''
+#  - url: 
 
-url_pdf: ''
+url_pdf: 'https://www.dropbox.com/s/i1i4voezby31a8d/HwangSavagarKariel_UKmarketpower.pdf?dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
