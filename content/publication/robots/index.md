@@ -38,9 +38,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Link
-#   url: https://onlinelibrary.wiley.com/doi/10.1111/labr.12192
+links:
+  - name: Link
+  - url: https://onlinelibrary.wiley.com/doi/10.1111/labr.12192
 
 url_pdf: ''
 url_code: ''
