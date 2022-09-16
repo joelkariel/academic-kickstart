@@ -29,7 +29,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: We estimate returns to scale in the U.K. economy from 1998 - 2014 and show that returns to scale have increased over time. We show that there is a positive relationship between returns to scale and productivity across industries. However, within industries, there is a negative relationship. We reconcile these results in a firm dynamics model with endogenous returns to scale. Higher fixed-costs lead to higher returns to scale and selection of higher-productivity firms. However, high-productivity firms are large, and make greater use of their fixed costs which endogenously reduces returns to scale.
+abstract: Returns to scale is an important, yet underemphasised, element of the market power debate. Trends in market power could arise from changes to marginal or fixed costs, both of which are key components of returns to scale. We estimate returns to scale in the U.K. economy from 1998 - 2014 and show that returns to scale have increased over time. We show theoretically that differences in returns to scale across industries can be explained by variations in the slope of the marginal cost curve, and not by fixed costs. Contrary to the predictions of standard models, we find a negative relationship between returns to scale and productivity across industries. We present a heterogeneous firm model with imperfect competition and endogenous returns to scale which can explain this result. All firms pay fixed labour-denominated overheads, which flips the standard selection effect. Industries with greater variable returns to scale experience less selection, so low-productivity laggards can survive. 
 
 # Summary. An optional shortened abstract.
 summary: 
