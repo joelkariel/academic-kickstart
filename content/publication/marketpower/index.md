@@ -46,7 +46,7 @@ featured: true
 #  - name: ''
 #  - url: 
 
-url_pdf: 'https://www.dropbox.com/s/i1i4voezby31a8d/HwangSavagarKariel_UKmarketpower.pdf?dl=0'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
