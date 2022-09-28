@@ -28,7 +28,7 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: 'Under review'
 publication_short: ''
 
 abstract: We study product market power in the UK using administrative data from the UK business survey. Our data covers 1998-2014 with 40,000 firms per year accounting for 80% of UK output. We estimate firm-level markups, and present results on the aggregate and sectoral trends. We show evidence of rising markups, and increasing markup dispersion. We also show that markups and productivity are negatively related.
