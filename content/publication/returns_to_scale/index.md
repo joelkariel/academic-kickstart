@@ -29,7 +29,8 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: We estimate returns to scale in the U.K. economy from 1998 - 2014 and show that returns to scale have increased over time. We present a heterogeneous firm model with imperfect competition and endogenous returns to scale. There are three sources of returns to scale: fixed costs, marginal costs, and external returns (agglomeration / love-of-variety). We show that the source of returns to scale affects the impact of returns to scale. This allows us to reconcile an empirical observation that returns to scale and productivity are negatively related across industries. This is contrary to the predictions of standard models, but can occur when the source of returns to scale is marginal costs. The intuition is that greater increasing returns in variable production weakens selection, which allows low productivity laggards to survive.
+abstract: We estimate returns to scale in the U.K. economy from 1998 - 2014 and show that returns to scale have increased over time. We present a heterogeneous firm model with imperfect competition and endogenous returns to scale. There are three sources of returns to scale - fixed costs, marginal costs, and external returns (agglomeration / love-of-variety). We show that the source of returns to scale affects the impact of returns to scale. This allows us to reconcile an empirical observation that returns to scale and productivity are negatively related across industries. This is contrary to the predictions of standard models, but can occur when the source of returns to scale is marginal costs. The intuition is that greater increasing returns in variable production weakens selection, which allows low productivity laggards to survive.
+
 
 # Summary. An optional shortened abstract.
 summary: 
