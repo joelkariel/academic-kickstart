@@ -44,7 +44,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: M
-    icon_pack: fas
+    icon_pack: fa
     link: 'https://econtwitter.net/web/@joelkariel'
   - icon: twitter
     icon_pack: fab
