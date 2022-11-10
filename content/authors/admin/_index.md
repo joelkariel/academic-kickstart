@@ -75,3 +75,5 @@ I am on the academic job market 2022/23.
 Awarded BA Leverhulme Small Research Grant 2022. I am looking for a research assistant to work on [racial discrimination]({{< relref "/publication/discrimination_football" >}}). Please {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}find the job advert here{{% /staticref %}}.
 {{< /hl >}}
 
+Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
+
