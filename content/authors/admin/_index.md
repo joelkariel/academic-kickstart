@@ -43,8 +43,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: M
-    icon_pack: fa
+  - icon: mastodon
+    icon_pack: fab
     link: 'https://econtwitter.net/web/@joelkariel'
   - icon: twitter
     icon_pack: fab
