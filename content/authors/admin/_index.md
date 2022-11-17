@@ -71,11 +71,12 @@ I am a postdoctoral researcher at the [University of Kent](https://www.kent.ac.u
 
 I am on the academic job market 2022/23.
 
-Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
-
 {{< hl >}} **NEW** 
 [Anthony Savagar](https://www.asavagar.com/) and I are organising the second workshop on **Firm Dynamics, Market Structures and Productivity in the Macroeconomy**. Please find the [call for papers here](https://drive.google.com/file/d/10QdbgyDxOru-8gYwvn6D57dprIbuIuuN/view?usp=sharing), and apply!
 {{< /hl >}}
+
+
+Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
 
 
 {{< hl >}}
