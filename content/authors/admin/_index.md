@@ -69,7 +69,11 @@ highlight_name: true
 
 I am a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supverision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/). My doctoral research explored the impact of new technologies - such as Artificial Intelligence and Robots - on the macroeconomy. My subsequent research has focused on measuring returns to scale in the UK, understanding its relationship with productivity, and working with heterogeneous firm models. I am in the early stages of various projects on `green technologies': looking at their adoption, relationship with climate policy, and impact on firms.
 
+I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
+
 I am on the academic job market 2022/23.
+
+Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
 
 {{< hl >}} **NEW** 
 [Anthony Savagar](https://www.asavagar.com/) and I are organising the second workshop on **Firm Dynamics, Market Structures and Productivity in the Macroeconomy**. Please find the [call for papers here](https://drive.google.com/file/d/10QdbgyDxOru-8gYwvn6D57dprIbuIuuN/view?usp=sharing), and apply!
@@ -77,11 +81,5 @@ I am on the academic job market 2022/23.
 
 
 
-Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
-
-
-{{< hl >}}
-Awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
-{{< /hl >}}
 
 
