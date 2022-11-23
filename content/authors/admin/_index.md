@@ -71,9 +71,9 @@ I am a postdoctoral researcher at the [University of Kent](https://www.kent.ac.u
 
 My research interests are in technological change, market power, firm dynamics, and productivity. I am in the early stages of various projects on `green technologies': looking at their adoption, relationship with climate policy, and impact on firms.
 
-I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
-
 I am on the academic job market 2022/23. My [JMP is here](https://www.joelkariel.com/publication/returns_to_scale/returns_to_scale.pdf). Please click to find my {{% staticref "uploads/Research_Statement.pdf" "newtab" %}}research{{% /staticref %}} and {{% staticref "uploads/Teaching Statement.pdf" "newtab" %}}teaching{{% /staticref %}} statements.
+
+I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
 
 Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
 
