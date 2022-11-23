@@ -73,7 +73,7 @@ My research interests are in technological change, market power, firm dynamics, 
 
 I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
 
-I am on the academic job market 2022/23. My [JMP is here](https://www.joelkariel.com/publication/returns_to_scale/returns_to_scale.pdf). Please click to find my {{% researchref "uploads/Research_Statement.pdf" "newtab" %}}research{{% /researchref %}} and {{% teachingref "uploads/Teaching Statement.pdf" "newtab" %}}teaching{{% /teachingref %}} statements.
+I am on the academic job market 2022/23. My [JMP is here](https://www.joelkariel.com/publication/returns_to_scale/returns_to_scale.pdf). Please click to find my {{% researchref "uploads/Research_Statement.pdf" "newtab" %}}research{{% /researchref %}} statement.
 
 Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
 
