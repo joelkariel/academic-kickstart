@@ -17,10 +17,10 @@ organizations:
 bio: My research interests include automation, productivity, firms, market power, applied econometrics.
 
 # Interests to show in About widget
-interests:
-  - Economics of automation
-  - Firms & productivity
-  - Market power & scale economies
+Job Market:
+  - [JMP](https://www.joelkariel.com/publication/returns_to_scale/returns_to_scale.pdf)
+  - [Research Statement](https://www.joelkariel.com/uploads/Research_Statement.pdf)
+  - [Teaching Statement](https://www.joelkariel.com/uploads/Teaching Statement.pdf)
 
 # Education to show in About widget
 education:
@@ -67,7 +67,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/). My doctoral research explored the impact of new technologies - such as Artificial Intelligence and Robots - on the macroeconomy. My subsequent research has focused on measuring returns to scale in the UK, understanding its relationship with productivity, and working with heterogeneous firm models. I am in the early stages of various projects on `green technologies': looking at their adoption, relationship with climate policy, and impact on firms.
+I am a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/). 
+
+My research interests are in technological change, market power, firm dynamics, and productivity. I am in the early stages of various projects on `green technologies': looking at their adoption, relationship with climate policy, and impact on firms.
 
 I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
 
