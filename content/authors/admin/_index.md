@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include automation, productivity, firms, market power, applied econometrics.
 
 # Interests to show in About widget
-Job Market:
+job market:
   - [JMP](https://www.joelkariel.com/publication/returns_to_scale/returns_to_scale.pdf)
   - [Research Statement](https://www.joelkariel.com/uploads/Research_Statement.pdf)
 
