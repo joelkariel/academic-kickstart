@@ -6,12 +6,12 @@ title: Joel Kariel
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Econometrics Adviser
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Kent
-    url: https://www.kent.ac.uk/economics
+  - name: Competition & Markets Authority
+    url: https://www.gov.uk/government/collections/microeconomics-unit-research
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include automation, productivity, firms, market power, applied econometrics.
@@ -67,21 +67,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/). 
+From May 2023, I will start working at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research). Previously, I was a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/). 
 
 My research interests are in technological change, market power, firm dynamics, and productivity. I am in the early stages of various projects on `green technologies': looking at their adoption, relationship with climate policy, and impact on firms.
-
-I am on the academic job market 2022/23. My [JMP is here](https://www.joelkariel.com/publication/returns_to_scale/returns_to_scale.pdf). Please click to find my {{% staticref "uploads/Research_Statement.pdf" "newtab" %}}research{{% /staticref %}} and {{% staticref "uploads/Teaching Statement.pdf" "newtab" %}}teaching{{% /staticref %}} statements.
 
 I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
 
 Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
-
-{{< hl >}} **NEW** 
-[Anthony Savagar](https://www.asavagar.com/) and I are organising the second workshop on **Firm Dynamics, Market Structures and Productivity in the Macroeconomy**. Please find the [call for papers here](https://drive.google.com/file/d/10QdbgyDxOru-8gYwvn6D57dprIbuIuuN/view?usp=sharing), and apply!
-{{< /hl >}}
-
-
-
-
-
