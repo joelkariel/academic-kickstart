@@ -9,9 +9,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Postdoctoral Reseacher, University of Kent'
+  - 'Econometrics Advisor, Microeconomics Unit'
 
-date: '2022-09-01T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
