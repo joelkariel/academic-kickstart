@@ -15,7 +15,7 @@ date: '2022-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-01T00:00:00Z'
+publishDate: '2023-09-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,7 +24,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '_Under review_'
+publication: ''
 publication_short: ''
 
 abstract: Which firms are using automation technologies, and what are the effects on firms and the aggregate economy? Using Italian survey data on adoption of cutting-edge technologies, such as Artificial Intelligence, I compile a set of novel findings. Firms that automate are larger, pay higher wages, and are more productive. Technology adopters grow faster once they start using automation technologies. I embed technology adoption in a heterogeneous firm model to investigate the aggregate implications of automation. The model reconciles the firm-level evidence of technology adoption boosting firm size, with the various macro studies suggesting a negative overall effect on employment.
