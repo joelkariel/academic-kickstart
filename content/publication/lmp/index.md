@@ -11,10 +11,7 @@ authors:
   - Nicole Scholz
   - Max Read
 
-# Author notes (optional)
-author_notes:
-
-date: '2022-08-01T00:00:00Z'
+date: '2024-26-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +27,7 @@ publication_types: ['4']
 publication: ''
 publication_short: ''
 
-abstract: We have analysed the degree of employer market power and labour market concentration in the UK economy and the relationship between employer power, labour market institutions and labour market outcomes. We have also assessed the impact of four trends driving the changing nature of work that could potentially impact employer market power: working-from-home and hybrid working, the rise of the gig economy, restrictive covenants, and changes in pay-setting policies. We find that in the UK, employer market power and labour market concentration have not increased over the last twenty years, in contrast to the US. Nonetheless, there are large and persistent differences in both measures across regions, occupations, and firms. For affected workers, concentrated labour markets have a very real cost: comparing similar workers, wages are on average 10% lower in the most concentrated labour markets compared to the least concentrated. Finally, changes to technology and differences in wage bargaining norms all have the potential to affect employer market power in complex ways.
+abstract: We analyse the degree of employer market power and labour market concentration in the UK. We investigate the relationship between employer power, labour market institutions, and labour market outcomes. We have also assessed the impact of four trends driving the changing nature of work that could potentailly impact employer market power - working-from-home and hyrbid working, the rise of the gig economy, restrictive covenants, and changes in pay-setting policies. We find that in the UK, employer market power and labour market concentration have not increased over the last twenty years, in contrast to the US. Nonetheless, there are large and persistent differences in both measures across regions, occupations, and firms. For affected workers, concentrated labour markets have a very real cost. Comparing similar workers, wages are on average 10% lower in the most concentrated labour markets compared to the least concentrated. Finally, changes to technology and differences in wage bargaining norms all have the potential to affect employer market power in complex ways.
 
 # Summary. An optional shortened abstract.
 summary: 
