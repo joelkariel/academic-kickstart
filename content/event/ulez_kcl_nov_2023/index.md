@@ -1,5 +1,5 @@
 +++
-date = "2023-11-01T00:00:00"
+date = "2023-11-22"
 title = "ULEZ presentation at KCL"
 abstract = ""
 abstract_short = ""
@@ -16,7 +16,7 @@ url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
+image = ""
 caption = ""
 
 +++
