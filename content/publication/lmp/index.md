@@ -1,0 +1,70 @@
+---
+title: 'Competition and market power in UK labour markets'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+  - Jakob Schneebacher
+  - Ana Rincon Aznar
+  - Nicole Scholz
+  - Max Read
+
+# Author notes (optional)
+author_notes:
+
+date: '2022-08-01T00:00:00Z'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-26-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['4']
+
+# Publication name and optional abbreviated publication name.
+publication: ''
+publication_short: ''
+
+abstract: We have analysed the degree of employer market power and labour market concentration in the UK economy and the relationship between employer power, labour market institutions and labour market outcomes. We have also assessed the impact of four trends driving the changing nature of work that could potentially impact employer market power: working-from-home and hybrid working, the rise of the gig economy, restrictive covenants, and changes in pay-setting policies. We find that in the UK, employer market power and labour market concentration have not increased over the last twenty years, in contrast to the US. Nonetheless, there are large and persistent differences in both measures across regions, occupations, and firms. For affected workers, concentrated labour markets have a very real cost: comparing similar workers, wages are on average 10% lower in the most concentrated labour markets compared to the least concentrated. Finally, changes to technology and differences in wage bargaining norms all have the potential to affect employer market power in complex ways.
+
+# Summary. An optional shortened abstract.
+summary: 
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: ''
+---
