@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Postdoctoral Reseacher, University of Kent'
+  - 'Econometrics Advisor, Microeconomics Unit'
   - 'Senior Lecturer, University of Kent'
 
 date: '2023-12-01T00:00:00Z'
