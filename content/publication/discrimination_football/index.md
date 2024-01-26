@@ -15,7 +15,7 @@ date: '2022-03-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-03-03T00:00:00Z'
+publishDate: '2023-03-03T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: This project investigates racial discrimination in the elite sport labour market. There is evidence of discrimination on the basis of race across many jobs, in terms of earnings and career progression. There is also significant evidence of racism in British football, among fans, in management, and in the administrative structures. However, there is as yet no research on whether racism is embedded in the earnings structure of footballers. I propose an analysis of earnings of British footballers, with a clear focus on the following question. Do Black players get paid the same as comparable White players? It seems reasonable to think that in the highly competitive and globally popular Premier League, racist payment regimes would be competed away. However, to the extent that decision-makers do themselves hold racist views (implicitly or not), it is possible that such outcomes occur.
+abstract: This project investigates racial discrimination in the elite sport labour market. There is evidence of discrimination on the basis of race across many jobs, in terms of earnings and career progression. There is also significant evidence of racism in British football, among fans, in management, and in the administrative structures. I propose an analysis of earnings of British footballers, with a clear focus on the following question. Do Black players get paid the same as comparable White players? It seems reasonable to think that in the highly competitive and globally popular Premier League, racist payment regimes would be competed away. However, to the extent that decision-makers do themselves hold racist views (implicitly or not), it is possible that such outcomes occur.
 
 # Summary. An optional shortened abstract.
 summary: 
