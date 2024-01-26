@@ -36,7 +36,7 @@ experience:
   company_logo: 
   location: Canterbury, UK
   date_start: '2021-04-01'
-  date_end: '2023-03-31'
+  date_end: '2023-04-01'
   description: ''
 - title: Stipdendiary Lecturer
   company: St Hilda's College, University of Oxford
