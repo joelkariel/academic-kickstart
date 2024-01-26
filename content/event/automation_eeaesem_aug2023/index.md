@@ -1,6 +1,6 @@
 +++
 date = "2023-08-29"
-title = "Firms That Automate in Barcelona"
+title = "Firms That Automate at EEA-ESEM"
 abstract = ""
 abstract_short = ""
 event = "EEA-ESEM Conference 2023"
