@@ -11,7 +11,7 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = ""
+url_slides = "https://www.joelkariel.com/uploads/ULEZ_slides_KCL_Nov_2023.pdf"
 url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
