@@ -73,4 +73,4 @@ Previously, I was a postdoctoral researcher at the [University of Kent](https://
 
 I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
 
-Please follow me on <a rel="me" href="https://econtwitter.net/@joelkariel">Mastodon</a>!
+We have just published our report on labour [market power in the UK](https://www.gov.uk/government/publications/competition-and-market-power-in-uk-labour-markets). Please have a read and get in contact if you'd like to discuss anything about labour markets!
