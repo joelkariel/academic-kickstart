@@ -26,7 +26,7 @@ publishDate: '2023-12-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '_Under review_'
 publication_short: ''
 
 abstract: We present a theory of rising scale economies and stagnating productivity in a model of heterogeneous firms with imperfectly competitive product markets and firm selection. Our theory shows that scale economies arising from fixed costs versus returns to scale differ in their effect on aggregate productivity. Using UK data, we estimate a long-run increase in fixed costs and returns to scale. Our model implies that this should have significantly increased aggregate productivity, both through stronger selection of high-technical-efficiency firms and better allocation of resources across firms. However, increasing markups can offset the productivity gain. Higher markups cushion low-productivity firms’ revenues, allowing them to survive, and constrain firm output, which limits exploitation of scale economies.
