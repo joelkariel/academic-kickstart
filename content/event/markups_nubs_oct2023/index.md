@@ -1,11 +1,11 @@
 +++
-date = "2023-11-22"
+date = "2023-10-19"
 title = "Markups presentation at NUBS"
 abstract = ""
 abstract_short = ""
 event = "Newcastle University Business School Applied Micro Seminar"
 event_url = ""
-location = "London"
+location = "Newcastle"
 
 selected = false
 math = true
