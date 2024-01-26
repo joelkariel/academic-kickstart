@@ -1,5 +1,5 @@
 ---
-title: 'Returns to Scale & Productivity in the Macroeconomy'
+title: 'Scale Economies and Aggregate Productivity'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,11 +26,10 @@ publishDate: '2022-11-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Job Market Paper*'
+publication: ''
 publication_short: ''
 
-abstract: We estimate returns to scale in the U.K. economy from 1998 - 2014. We show that across firms productivity and returns to scale are negatively related, and overall returns to scale have increased whilst productivity has declined. To reconcile these empirical results, we develop a heterogeneous firm dynamics model with endogenous returns to scale. Our main result is that rising returns to scale in variable production, as opposed to changing fixed costs, can cause returns to scale to increase whilst productivity declines. The mechanism relies on greater increasing returns in variable production weakening firm selection, which allows low-productivity firms to survive. The same would not hold if returns to scale were driven by rising fixed cost. Overall the results suggest that changing marginal costs, rather than fixed costs, explain the puzzle of rising returns to scale but weak productivity in several advanced economies.
-
+abstract: We present a theory of rising scale economies and stagnating productivity in a model of heterogeneous firms with imperfectly competitive product markets and firm selection. Our theory shows that scale economies arising from fixed costs versus returns to scale differ in their effect on aggregate productivity. Using UK data, we estimate a long-run increase in fixed costs and returns to scale. Our model implies that this should have significantly increased aggregate productivity, both through stronger selection of high-technical-efficiency firms and better allocation of resources across firms. However, increasing markups can offset the productivity gain. Higher markups cushion low-productivity firms’ revenues, allowing them to survive, and constrain firm output, which limits exploitation of scale economies.
 
 # Summary. An optional shortened abstract.
 summary: 
