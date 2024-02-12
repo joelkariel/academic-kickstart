@@ -40,7 +40,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Economics Observatory
-  url: [What do we know about labour market power in the UK?](https://www.economicsobservatory.com/what-do-we-know-about-labour-market-power-in-the-uk)
+- url: [What do we know about labour market power in the UK?](https://www.economicsobservatory.com/what-do-we-know-about-labour-market-power-in-the-uk)
 
 url_pdf: ''
 url_code: ''
