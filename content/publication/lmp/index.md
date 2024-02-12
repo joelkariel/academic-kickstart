@@ -38,15 +38,15 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: [Economics Observatory](https://www.economicsobservatory.com/what-do-we-know-about-labour-market-power-in-the-uk)
-# - url: [Economics Observatory](https://www.economicsobservatory.com/what-do-we-know-about-labour-market-power-in-the-uk)
+# links:
+# - name: 
+# - url: 
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://www.economicsobservatory.com/what-do-we-know-about-labour-market-power-in-the-uk'
 url_slides: ''
 url_source: ''
 url_video: ''
