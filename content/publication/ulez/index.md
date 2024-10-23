@@ -1,5 +1,5 @@
 ---
-title: 'How does economic activity adapt to pollution pricing? Evidence from London’s ULEZ'
+title: 'How does economic activity adapt to pollution pricing?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,7 +31,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: Policymakers around the world are exploring ways to tackle greenhouse gas emissions, but when evaluation focuses on narrow margins, policies can have unintended consequences. We exploit the phased introduction of London's Ultra-Low Emissions Zone (ULEZ) and a shift-share event study design to study how the ULEZ changes economic activity along all major margins. The phased introduction of the ULEZ affects who can drive into particular areas of London without paying a fee, affecting commuter-belt postcodes heterogeneously based on pre-existing economic choices. Affected individuals can react by purchasing ULEZ-compliant vehicles, switching to public transport, working from home, or changing the location of their home or employer. We estimate elasticities on all these margins. In preliminary work, we show that the initial introduction of the ULEZ had large, significant positive effects on the adoption of ultra-low emissions vehicles.
+abstract: Policymakers around the world are exploring ways to tackle greenhouse gas emissions, but when evaluation focuses on narrow margins, policies can have unintended consequences. We study the phased introduction of London's Ultra-Low Emissions Zone (ULEZ), a tax on highly-polluting vehicles. A simple model of location and commuting behaviour highlight four important margins of adjustment: vehicle investment, commuting mode, firm location and residential location. We study those four margins using an event study and regression discontinuity methods, and exploit the randomness of the precise borders and differential exposure of affected individuals based on their pre-existing commuting choices. We show the initial announcement of the ULEZ had large, significant positive effects on adoption of ultra-low emission vehicles. The policy had a positive effect on house prices within the zone. Individuals more exposed to the ULEZ used public transport more after the policy is introduced. Finally, we find that firms relocated outside the zone after the policy was announced. Within Greater London, response magnitudes on each margin vary substantially across space.
 
 # Summary. An optional shortened abstract.
 summary: 
