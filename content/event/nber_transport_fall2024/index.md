@@ -1,6 +1,6 @@
 +++
 date = "2024-10-18"
-title = "Pollution Pricing at NBER workshop Fall 2024"
+title = "Pollution Pricing at NBER workshop, Fall 2024"
 abstract = ""
 abstract_short = ""
 event = "NBER Economics of Transporation in the 21st Century"
