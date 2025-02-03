@@ -71,6 +71,6 @@ I am a research economist working at the [Microeconomics Unit at the Competition
 
 Previously, I was a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/), focusing on automation and firm dynamics.
 
-I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}. Initial findings will be available in early 2023.
+I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}.
 
-We have just published our report on [labour market power in the UK](https://www.gov.uk/government/publications/competition-and-market-power-in-uk-labour-markets). Please have a read and get in contact if you'd like to discuss anything about labour markets!
+My research team published our first report on [labour market power in the UK](https://www.gov.uk/government/publications/competition-and-market-power-in-uk-labour-markets). Please have a read and get in contact if you'd like to discuss anything about labour markets!
