@@ -13,11 +13,11 @@ authors:
 author_notes:
   - 
 
-date: '2024-01-31T00:00:00Z'
+date: '2025-01-31T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-31T00:00:00Z'
+publishDate: '2025-01-31T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: '2024-01-31T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: 'Oxford Review of Economic Policy'
+publication_short: 'OxRep'
 
 abstract: Emerging evidence on pervasive and rising market power in US labour markets has led some competition agencies to wonder if the prevailing focus on product market power is too narrow. We survey existing competition enforcement in labour markets and the empirical evidence on the extent and impact of labour market power, with a particular focus on the UK. We find that in contrast to the US, labour market power in the UK has not risen substantially. Nonetheless, workers vary in their exposure and, for some, labour market power has significant economic costs. Labour market power also appears to interact in significant ways with other labour market policies. We argue these findings underscore the danger of making policy decisions based on evidence from other countries, or by analogy with product markets. We survey what these findings mean for existing tools available to competition agencies and conclude by laying out four types of open questions - theoretical, empirical, legal, and normative.
 
