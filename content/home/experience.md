@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Assistant Professor of Economics
+  company: City St George's, University of London
+  company_url: 'https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics'
+  company_logo: 
+  location: London, UK
+  date_start: '2026-08-03'
+  date_end: ''
+  description: ''
 - title: Econometrics Advisor
   company: Competition and Markets Authority
   company_url: 'https://www.gov.uk/government/collections/microeconomics-unit-research'
   company_logo: 
   location: London, UK
   date_start: '2023-05-01'
-  date_end: ''
+  date_end: '2026-07-07'
   description: ''
 - title: Postdoctoral Researcher
   company: University of Kent
