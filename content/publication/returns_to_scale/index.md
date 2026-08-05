@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Assistant Professor of Economics, City St George`s'
+  - 'Assistant Professor, City St George`s'
   - 'Senior Lecturer, University of Kent'
 
 date: '2026-01-01T00:00:00Z'
