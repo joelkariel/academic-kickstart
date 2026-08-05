@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Postdoctoral Reseacher, University of Kent'
+  - 'Assistant Professor of Economics, City St George`s'
   - 'Senior Lecturer, University of Kent'
   - 'PhD Candidate, University of Kent'
 
