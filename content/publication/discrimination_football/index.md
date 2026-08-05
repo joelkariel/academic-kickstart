@@ -24,7 +24,7 @@ publishDate: '2023-03-03T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '_Working paper_'
 publication_short: ''
 
 abstract: This project investigates racial discrimination in the elite sport labour market. There is evidence of discrimination on the basis of race across many jobs, in terms of earnings and career progression. There is also significant evidence of racism in British football, among fans, in management, and in the administrative structures. I propose an analysis of earnings of British footballers, with a clear focus on the following question. Do Black players get paid the same as comparable White players? It seems reasonable to think that in the highly competitive and globally popular Premier League, racist payment regimes would be competed away. However, to the extent that decision-makers do themselves hold racist views (implicitly or not), it is possible that such outcomes occur.
