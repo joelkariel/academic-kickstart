@@ -11,9 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Econometrics Advisor, Microeconomics Unit'
-  - 'Assistant Director, Microeconomics Unit'
-  - 'Assistant Economist, Microeconomics Unit'
+  - 'Assistant Professor of Economics, City St George`s'
+  - 'Assistant Director, Institute for Fiscal Studies'
+  - 'Economic Advisor, Microeconomics Unit'
 
 date: '2024-10-15T00:00:00Z'
 doi: ''
