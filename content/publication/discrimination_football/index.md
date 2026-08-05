@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Postdoctoral Reseacher, University of Kent'
+  - 'Assistant Professor of Economics, City St George's'
 
 date: '2022-03-03T00:00:00Z'
 doi: ''
