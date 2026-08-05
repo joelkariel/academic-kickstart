@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Assistant Professor of Economics, City St George`s'
+  - 'Assistant Professor, City St George`s'
   - 'Assistant Director, Institute for Fiscal Studies'
   - 'Economic Advisor, Microeconomics Unit'
 
