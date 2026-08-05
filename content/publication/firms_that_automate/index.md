@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Assistant Professor of Economics, City St George`s'
+  - 'Assistant Professor, City St George`s'
 
 date: '2023-09-01T00:00:00Z'
 doi: ''
