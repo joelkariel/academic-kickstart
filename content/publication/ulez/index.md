@@ -15,11 +15,11 @@ author_notes:
   - 'Assistant Director, Institute for Fiscal Studies'
   - 'Economic Advisor, Microeconomics Unit'
 
-date: '2024-10-15T00:00:00Z'
+date: '2025-12-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-15T00:00:00Z'
+publishDate: '2025-12-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ifs.org.uk/publications/how-do-commuters-adapt-local-pollution-pricing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
