@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 
+  - 'Assistant Professor of Economics, City St Georges'
 
 date: '2025-01-31T00:00:00Z'
 doi: ''
