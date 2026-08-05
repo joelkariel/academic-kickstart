@@ -30,7 +30,7 @@ publishDate: '2026-04-15T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '_Working paper_'
 publication_short: ''
 
 abstract:
