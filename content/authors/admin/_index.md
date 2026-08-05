@@ -6,12 +6,12 @@ title: Joel Kariel
 superuser: true
 
 # Role/position/tagline
-role: Econometrics Adviser
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Competition & Markets Authority
-    url: https://www.gov.uk/government/collections/microeconomics-unit-research
+  - name: City St George's, University of London
+    url: https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include firm dynamics, productivity, technological change, market power, applied econometrics.
@@ -43,12 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: mastodon
+  - icon: bluesky
     icon_pack: fab
-    link: 'https://econtwitter.net/web/@joelkariel'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/joelkariel
+    link: 'https://bsky.app/profile/joelkariel.bsky.social'
   - icon: github
     icon_pack: fab
     link: https://github.com/joelkariel
@@ -67,10 +64,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a research economist working at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research). We are a growing research unit, working on a wide range of topics including market power, firm dynamics, productivity, labour markets, innovation, and applied microeconometrics.
+I am an assistant professor of economics at the [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics). Previously I worked at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research), a research team analysing market power, firm dynamics, productivity, labour markets, and supply networks.
 
-Previously, I was a postdoctoral researcher at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies in the UK. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/), focusing on automation and firm dynamics.
+I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/), focusing on automation and firm dynamics. Subsequently, I was a postdoc at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies. 
 
 I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}.
-
-My research team published our first report on [labour market power in the UK](https://www.gov.uk/government/publications/competition-and-market-power-in-uk-labour-markets). Please have a read and get in contact if you'd like to discuss anything about labour markets!
