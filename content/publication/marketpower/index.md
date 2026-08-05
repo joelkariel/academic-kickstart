@@ -11,7 +11,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Assistant Professor of Economics, City St George`s'
+  - 'Assistant Professor, City St George`s'
   - 'Senior Lecturer, University of Kent'
   - 'Korea Institute for Industrial Economics and Trade'
 
