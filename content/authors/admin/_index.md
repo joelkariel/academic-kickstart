@@ -24,19 +24,19 @@ bio: My research interests include firm dynamics, productivity, technological ch
 
 # Education to show in About widget
 education:
-  courses:
-    - course: DPhil in Economics
-      institution: University of Oxford
-      year: 2022
-    - course: MPhil in Economics
-      institution: University of Oxford
-      year: 2018
-    - course: MRes in Financial Computing and Analytics
-      institution: University College London
-      year: 2016
-    - course: BA in Economics & Management
-      institution: University of Oxford
-      year: 2011
+#  courses:
+#    - course: DPhil in Economics
+#      institution: University of Oxford
+#      year: 2022
+#    - course: MPhil in Economics
+#      institution: University of Oxford
+#      year: 2018
+#    - course: MRes in Financial Computing and Analytics
+#      institution: University College London
+#      year: 2016
+#    - course: BA in Economics & Management
+#      institution: University of Oxford
+#      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
