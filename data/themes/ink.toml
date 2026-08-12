@@ -1,0 +1,23 @@
+# Custom theme metadata
+name = "Ink"
+
+[light]
+  # Primary
+  primary = "#1d3557"
+
+  # Menu
+  menu_primary = "#ffffff"
+  menu_text = "#2b2b2b"
+  menu_text_active = "#1d3557"
+  menu_title = "#1d3557"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  # Primary
+  primary = "#8ecae6"
+
+  link = "#8ecae6"
+  link_hover = "#8ecae6"

@@ -10,11 +10,14 @@ main:
   - name: Research
     url: '#featured'
     weight: 20
+  - name: Publications
+    url: 'publication/'
+    weight: 25
   #- name: Experience
   #  url: '#experience'
   #  weight: 30
   - name: Presentations
-    url: '#talks'
+    url: 'talk/'
     weight: 30
   - name: CV
     url: uploads/resume.pdf

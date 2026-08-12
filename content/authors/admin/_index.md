@@ -43,12 +43,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: at
     icon_pack: fas
     link: 'https://bsky.app/profile/joelkariel.bsky.social'
   - icon: github
     icon_pack: fab
     link: https://github.com/joelkariel
+  - icon: graduation-cap
+    icon_pack: fas
+    link: 'https://scholar.google.com/citations?user=zPvAhH8AAAAJ&hl=en'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -62,7 +65,6 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-test: I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}.
 ---
 
 I am an assistant professor of economics at the [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics). Previously I worked at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research), a research team analysing market power, firm dynamics, productivity, labour markets, and supply networks.

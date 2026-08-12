@@ -33,7 +33,8 @@ publication_types: ['3']
 publication: '_Working paper_'
 publication_short: ''
 
-abstract:
+abstract: |-
+  While the vast majority of firms are small, large "superstar" firms play a key role in aggregate productivity and employment dynamics. But what determines the structure of superstar firms, and how do these choices feed into aggregate dynamics? Using novel UK firm-level microdata, we distinguish the contribution of three channels to superstar firm growth: scale, span and scope. We show the falling contribution of span and scope since the early 2000s, and construct a firm dynamics model with establishment creation and imperfect competition to rationalise the phenomenon. The key trade-off we capture is between economies of scope (which push firms towards a larger number of establishments) and correlated shocks across establishments (which limit expansion). The model allows us to explore the dynamics of establishment expansion at the firm level and the contribution to aggregate employment and productivity growth.
 
 # Summary. An optional shortened abstract.
 summary: 

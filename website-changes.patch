@@ -1,0 +1,139 @@
+diff --git a/config/_default/menus.yaml b/config/_default/menus.yaml
+index 09c4b76..62476e0 100644
+--- a/config/_default/menus.yaml
++++ b/config/_default/menus.yaml
+@@ -10,11 +10,14 @@ main:
+   - name: Research
+     url: '#featured'
+     weight: 20
++  - name: Publications
++    url: 'publication/'
++    weight: 25
+   #- name: Experience
+   #  url: '#experience'
+   #  weight: 30
+   - name: Presentations
+-    url: '#talks'
++    url: 'talk/'
+     weight: 30
+   - name: CV
+     url: uploads/resume.pdf
+diff --git a/config/_default/params.yaml b/config/_default/params.yaml
+index 025e272..87ce18d 100644
+--- a/config/_default/params.yaml
++++ b/config/_default/params.yaml
+@@ -6,9 +6,9 @@
+ # Appearance
+ 
+ appearance:
+-  theme_day: minimal
+-  theme_night: minimal
+-  font: minimal
++  theme_day: ink
++  theme_night: ink
++  font: editorial
+   font_size: M
+ 
+ # SEO
+diff --git a/content/authors/admin/_index.md b/content/authors/admin/_index.md
+index 2746202..019d5cd 100644
+--- a/content/authors/admin/_index.md
++++ b/content/authors/admin/_index.md
+@@ -43,12 +43,15 @@ education:
+ #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+ #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+ social:
+-  - icon: envelope
++  - icon: at
+     icon_pack: fas
+     link: 'https://bsky.app/profile/joelkariel.bsky.social'
+   - icon: github
+     icon_pack: fab
+     link: https://github.com/joelkariel
++  - icon: graduation-cap
++    icon_pack: fas
++    link: 'https://scholar.google.com/citations?user=zPvAhH8AAAAJ&hl=en'
+ 
+ # Link to a PDF of your resume/CV.
+ # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+@@ -62,7 +65,6 @@ email: ''
+ 
+ # Highlight the author in author lists? (true/false)
+ highlight_name: true
+-test: I was awarded BA Leverhulme Small Research Grant 2022. I am working on [racial discrimination]({{< relref "/publication/discrimination_football" >}}) in the labour market for professional footballers with an RA. {{% staticref "uploads/RA_job_advert.pdf" "newtab" %}}The job advert can be found here{{% /staticref %}}.
+ ---
+ 
+ I am an assistant professor of economics at the [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics). Previously I worked at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research), a research team analysing market power, firm dynamics, productivity, labour markets, and supply networks.
+diff --git a/content/home/featured.md b/content/home/featured.md
+index 379f231..1455005 100644
+--- a/content/home/featured.md
++++ b/content/home/featured.md
+@@ -16,7 +16,7 @@ content:
+   # Page type to display. E.g. post, talk, publication...
+   page_type: publication
+   # Choose how many pages you would like to display (0 = all pages)
+-  count: 0
++  count: 3
+   # Filter on criteria
+   filters:
+     author: ''
+diff --git a/content/publication/mefs/index.md b/content/publication/mefs/index.md
+index 2f450ac..826b77f 100644
+--- a/content/publication/mefs/index.md
++++ b/content/publication/mefs/index.md
+@@ -33,7 +33,8 @@ publication_types: ['3']
+ publication: '_Working paper_'
+ publication_short: ''
+ 
+-abstract:
++abstract: |-
++  While the vast majority of firms are small, large "superstar" firms play a key role in aggregate productivity and employment dynamics. But what determines the structure of superstar firms, and how do these choices feed into aggregate dynamics? Using novel UK firm-level microdata, we distinguish the contribution of three channels to superstar firm growth: scale, span and scope. We show the falling contribution of span and scope since the early 2000s, and construct a firm dynamics model with establishment creation and imperfect competition to rationalise the phenomenon. The key trade-off we capture is between economies of scope (which push firms towards a larger number of establishments) and correlated shocks across establishments (which limit expansion). The model allows us to explore the dynamics of establishment expansion at the firm level and the contribution to aggregate employment and productivity growth.
+ 
+ # Summary. An optional shortened abstract.
+ summary: 
+diff --git a/data/fonts/editorial.toml b/data/fonts/editorial.toml
+new file mode 100644
+index 0000000..8cd2584
+--- /dev/null
++++ b/data/fonts/editorial.toml
+@@ -0,0 +1,11 @@
++# Custom font style metadata
++name = "Editorial"
++
++# Google font URL
++google_fonts = "family=Source+Serif+4:wght@400;600;700&family=Inter:wght@400;500;700&family=Roboto+Mono"
++
++# Font families
++heading_font = "Source Serif 4"
++body_font = "Inter"
++nav_font = "Inter"
++mono_font = "Roboto Mono"
+diff --git a/data/themes/ink.toml b/data/themes/ink.toml
+new file mode 100644
+index 0000000..00723f1
+--- /dev/null
++++ b/data/themes/ink.toml
+@@ -0,0 +1,23 @@
++# Custom theme metadata
++name = "Ink"
++
++[light]
++  # Primary
++  primary = "#1d3557"
++
++  # Menu
++  menu_primary = "#ffffff"
++  menu_text = "#2b2b2b"
++  menu_text_active = "#1d3557"
++  menu_title = "#1d3557"
++
++  # Home sections
++  home_section_odd = "rgb(255, 255, 255)"
++  home_section_even = "rgb(247, 247, 247)"
++
++[dark]
++  # Primary
++  primary = "#8ecae6"
++
++  link = "#8ecae6"
++  link_hover = "#8ecae6"
