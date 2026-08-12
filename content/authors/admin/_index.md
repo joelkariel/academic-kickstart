@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-I am an assistant professor of economics at the [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics). Previously I worked at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research), a research team analysing market power, firm dynamics, productivity, labour markets, and supply networks.
+I am an assistant professor of economics at [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics). Previously I worked at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research), a research team analysing market power, firm dynamics, productivity, labour markets, and supply networks.
 
 I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/), focusing on automation and firm dynamics. Subsequently, I was a postdoc at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies. 
