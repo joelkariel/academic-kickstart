@@ -67,8 +67,8 @@ email: ''
 highlight_name: true
 ---
 
-I am an assistant professor of economics at [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics). Previously I worked at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research), a research team analysing market power, firm dynamics, productivity, labour markets, and supply networks.
+I am a lecturer (assistant professor) of economics at [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics). I work on firm dynamics, competition, and environmental policy.
 
-I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/), focusing on automation and firm dynamics. Subsequently, I was a postdoc at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies.
+Previously I worked at the [Microeconomics Unit at the Competition & Markets Authority](https://www.gov.uk/government/collections/microeconomics-unit-research), a research team analysing market power, productivity, labour markets, and supply networks. I completed my DPhil in Economics at the [University of Oxford](https://www.economics.ox.ac.uk/) under the supervision of [Petr Sedlacek](https://users.ox.ac.uk/~econ0506/), focusing on automation and firm dynamics. Subsequently, I was a postdoc at the [University of Kent](https://www.kent.ac.uk/economics) working with [Anthony Savagar](https://www.asavagar.com/) on scale economies.
 
 My office hours are Wednesday 16:00 - 17:00 and Thursday 10:00 - 11:00 in room D317 on the third floor of the Rhind Building.
