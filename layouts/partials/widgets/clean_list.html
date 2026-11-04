@@ -1,0 +1,30 @@
+{{/* Clean list widget: an icon-free list of publications or talks on the homepage. */}}
+{{ $st := .page }}
+{{ $type := $st.Params.content.page_type | default "publication" }}
+{{ $count := $st.Params.content.count | default 0 }}
+
+{{ $all := where site.RegularPages "Type" $type }}
+{{ $query := $all }}
+{{ if $st.Params.content.featured_only }}
+  {{ $query = where $query "Params.featured" true }}
+{{ end }}
+{{ $query = sort $query "Date" "desc" }}
+{{ if gt $count 0 }}{{ $query = first $count $query }}{{ end }}
+
+{{ $archive := site.GetPage "Section" $type }}
+{{ $show_more := and $archive (gt (len $all) (len $query)) }}
+
+<div class="row">
+  {{ if $st.Title }}
+  <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+    <h1 class="mb-0">{{ $st.Title | markdownify | emojify }}</h1>
+    {{ with $st.Params.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+  <div class="col-12 col-lg-8">
+    {{ partial "clean_list.html" (dict "pages" $query) }}
+    {{ if $show_more }}
+    <a class="clean-more" href="{{ $archive.RelPermalink }}">{{ $st.Params.content.archive.text | default "See all" }} →</a>
+    {{ end }}
+  </div>
+</div>

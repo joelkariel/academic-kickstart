@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: clean_list
 
 # This file represents a page section.
 headless: true
@@ -28,6 +28,8 @@ content:
     publication_type: ''
   # Choose how many pages you would like to offset by
   offset: 0
+  archive:
+    text: All presentations
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 

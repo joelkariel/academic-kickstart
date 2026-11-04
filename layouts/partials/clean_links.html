@@ -1,0 +1,50 @@
+{{/* Plain text links for a publication or talk. Input: dict "page" <page>. */}}
+{{ $p := .page }}
+{{ $links := slice }}
+
+{{/* A PDF stored in the page's folder (<folder>.pdf) wins over `url_pdf`, as in the theme. */}}
+{{ $has_pdf_file := false }}
+{{ with $p.Resources.GetMatch (printf "%s.pdf" $p.File.ContentBaseName) }}
+  {{ $links = $links | append (dict "name" "Paper" "url" .RelPermalink) }}
+  {{ $has_pdf_file = true }}
+{{ end }}
+
+{{ $specs := slice
+  (dict "key" "url_preprint" "name" "Preprint")
+  (dict "key" "url_pdf" "name" "Paper")
+  (dict "key" "url_source" "name" "Source")
+  (dict "key" "url_slides" "name" "Slides")
+  (dict "key" "url_code" "name" "Code")
+  (dict "key" "url_dataset" "name" "Data")
+  (dict "key" "url_poster" "name" "Poster")
+  (dict "key" "url_video" "name" "Video")
+}}
+{{ range $specs }}
+  {{ $name := .name }}
+  {{ $skip := and $has_pdf_file (eq .key "url_pdf") }}
+  {{ with index $p.Params .key }}
+    {{ if not $skip }}
+      {{ $url := . }}
+      {{ with $p.Resources.GetMatch . }}{{ $url = .RelPermalink }}{{ end }}
+      {{ $links = $links | append (dict "name" $name "url" $url) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with $p.Params.doi }}{{ $links = $links | append (dict "name" "DOI" "url" (printf "https://doi.org/%s" .)) }}{{ end }}
+{{ range $p.Params.links }}{{ $links = $links | append (dict "name" .name "url" .url) }}{{ end }}
+
+{{ $abstract := $p.Params.abstract }}
+{{ if or $abstract (gt (len $links) 0) }}
+<div class="clean-links">
+  {{ with $abstract }}
+  <details>
+    <summary>Abstract</summary>
+    <div class="clean-abstract">{{ . | markdownify }}</div>
+  </details>
+  {{ end }}
+  {{ range $links }}
+  <a href="{{ .url | relURL }}" target="_blank" rel="noopener">{{ .name }}</a>
+  {{ end }}
+</div>
+{{ end }}

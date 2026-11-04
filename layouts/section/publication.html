@@ -10,13 +10,7 @@
       <div class="article-style">{{ . }}</div>
       {{ end }}
 
-      <ol class="publication-list pl-4">
-        {{ range .Pages.ByDate.Reverse }}
-        <li class="mb-3">
-          {{ partial "functions/render_view" (dict "page" $ "item" . "view" ($.Params.view | default "citation")) }}
-        </li>
-        {{ end }}
-      </ol>
+      {{ partial "clean_list.html" (dict "pages" .Pages.ByDate.Reverse) }}
 
     </div>
   </div>

@@ -1,0 +1,112 @@
+// Clean, icon-free lists for publications and presentations.
+
+.clean-list {
+  margin: 0;
+  padding: 0;
+}
+
+// Space between an archive page title and its first entry.
+.universal-wrapper .clean-list {
+  margin-top: 1.5rem;
+}
+
+.clean-item {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr);
+  column-gap: 1rem;
+  padding: 1rem 0;
+  border-top: 1px solid rgba(128, 128, 128, 0.25);
+
+  &:first-child {
+    border-top: 0;
+    padding-top: 0;
+  }
+}
+
+.clean-year {
+  padding-top: 0.15rem;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+  opacity: 0.6;
+}
+
+.clean-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.clean-meta {
+  margin: 0.2rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.75;
+}
+
+.clean-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 1.1rem;
+  margin-top: 0.45rem;
+  font-size: 0.9rem;
+
+  // The abstract toggle sits first. Open, it takes the full row.
+  details {
+    order: -1;
+  }
+
+  details[open] {
+    flex: 0 0 100%;
+  }
+
+  summary {
+    display: inline;
+    list-style: none;
+    cursor: pointer;
+    color: $sta-link;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &:hover {
+      color: $sta-link-hover;
+    }
+  }
+}
+
+.dark .clean-links summary {
+  color: $sta-dark-link;
+
+  &:hover {
+    color: $sta-dark-link-hover;
+  }
+}
+
+.clean-abstract {
+  max-width: 60rem;
+  margin: 0.5rem 0 0.25rem;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  opacity: 0.9;
+}
+
+.clean-more {
+  display: inline-block;
+  margin-top: 1rem;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 575.98px) {
+  .clean-item {
+    grid-template-columns: 1fr;
+  }
+
+  .clean-year {
+    margin-bottom: 0.15rem;
+
+    &:empty {
+      display: none;
+    }
+  }
+}

@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: clean_list
 
 # This file represents a page section.
 headless: true
@@ -16,7 +16,11 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 3
+  count: 0
+  # Only show papers flagged `featured: true`; the full list lives on the Publications page.
+  featured_only: true
+  archive:
+    text: All publications
   # Filter on criteria
   filters:
     author: ''

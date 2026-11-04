@@ -1,0 +1,16 @@
+{{/* One presentation, text only. Input: an event page. */}}
+{{ $p := . }}
+
+{{ $parts := slice }}
+{{ with $p.Params.event }}
+  {{ if $p.Params.event_url }}
+    {{ $parts = $parts | append (printf "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">%s</a>" $p.Params.event_url (. | htmlEscape)) }}
+  {{ else }}
+    {{ $parts = $parts | append (. | htmlEscape) }}
+  {{ end }}
+{{ end }}
+{{ with $p.Params.location }}{{ $parts = $parts | append (. | htmlEscape) }}{{ end }}
+
+<p class="clean-title">{{ $p.Title | markdownify }}</p>
+{{ if $parts }}<p class="clean-meta">{{ delimit $parts " · " | safeHTML }}</p>{{ end }}
+{{ partial "clean_links.html" (dict "page" $p) }}

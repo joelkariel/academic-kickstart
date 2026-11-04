@@ -1,0 +1,24 @@
+{{/* One publication, text only. Input: a publication page. */}}
+{{ $p := . }}
+
+{{/* Co-authors: skip the highlighted profile (the site owner) and prefix "With". */}}
+{{ $others := slice }}
+{{ range ($p.GetTerms "authors") }}
+  {{ if not .Page.Params.highlight_name }}
+    {{ $others = $others | append .LinkTitle }}
+  {{ end }}
+{{ end }}
+
+{{/* Status or venue. Falls back to the declared publication type. */}}
+{{ $status := $p.Params.publication }}
+{{ if not $status }}
+  {{ if in $p.Params.publication_types "3" }}{{ $status = "_Working paper_" }}{{ end }}
+{{ end }}
+
+{{ $parts := slice }}
+{{ if $others }}{{ $parts = $parts | append (printf "With %s" (delimit $others ", " " and " | htmlEscape)) }}{{ end }}
+{{ with $status }}{{ $parts = $parts | append (. | markdownify) }}{{ end }}
+
+<p class="clean-title">{{ $p.Title | markdownify }}</p>
+{{ if $parts }}<p class="clean-meta">{{ delimit $parts " · " | safeHTML }}</p>{{ end }}
+{{ partial "clean_links.html" (dict "page" $p) }}

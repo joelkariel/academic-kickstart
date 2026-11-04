@@ -1,0 +1,18 @@
+{{/* Icon-free list with a year column. Input: dict "pages" <pages, already sorted>. */}}
+{{ $prev := "" }}
+<div class="clean-list">
+  {{ range .pages }}
+  {{ $year := .Date.Format "2006" }}
+  <article class="clean-item">
+    <div class="clean-year">{{ if ne $year $prev }}{{ $year }}{{ end }}</div>
+    <div class="clean-body">
+      {{ if eq .Type "event" }}
+        {{ partial "clean_event.html" . }}
+      {{ else }}
+        {{ partial "clean_publication.html" . }}
+      {{ end }}
+    </div>
+  </article>
+  {{ $prev = $year }}
+  {{ end }}
+</div>
