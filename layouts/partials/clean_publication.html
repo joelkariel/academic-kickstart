@@ -1,10 +1,10 @@
 {{/* One publication, text only. Input: a publication page. */}}
 {{ $p := . }}
 
-{{/* Co-authors: skip the highlighted profile (the site owner) and prefix "With". */}}
+{{/* Co-authors: skip the site owner's profile (superuser: true) and prefix "With". */}}
 {{ $others := slice }}
 {{ range ($p.GetTerms "authors") }}
-  {{ if not .Page.Params.highlight_name }}
+  {{ if not .Page.Params.superuser }}
     {{ $others = $others | append .LinkTitle }}
   {{ end }}
 {{ end }}
@@ -17,8 +17,13 @@
 
 {{ $parts := slice }}
 {{ if $others }}{{ $parts = $parts | append (printf "With %s" (delimit $others ", " " and " | htmlEscape)) }}{{ end }}
-{{ with $status }}{{ $parts = $parts | append (. | markdownify) }}{{ end }}
+{{/* A journal name (journal article) is bold. Working-paper statuses stay italic. */}}
+{{ with $status }}
+  {{ $venue := . | markdownify }}
+  {{ if in $p.Params.publication_types "2" }}{{ $venue = printf "<strong>%s</strong>" $venue }}{{ end }}
+  {{ $parts = $parts | append $venue }}
+{{ end }}
 
 <p class="clean-title">{{ $p.Title | markdownify }}</p>
-{{ if $parts }}<p class="clean-meta">{{ delimit $parts " · " | safeHTML }}</p>{{ end }}
+{{ if $parts }}<p class="clean-meta">{{ delimit $parts " | " | safeHTML }}</p>{{ end }}
 {{ partial "clean_links.html" (dict "page" $p) }}

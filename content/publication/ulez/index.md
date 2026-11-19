@@ -1,5 +1,5 @@
 ---
-title: 'How does economic activity adapt to pollution pricing?'
+title: 'How do commuters adapt to local pollution pricing?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -31,7 +31,8 @@ publication_types: ['3']
 publication: '_Under review_'
 publication_short: ''
 
-abstract: Policymakers around the world are exploring ways to tackle greenhouse gas emissions, but when evaluation focuses on narrow margins, policies can have unintended consequences. We study the phased introduction of London's Ultra-Low Emissions Zone (ULEZ), a tax on highly-polluting vehicles. A simple model of location and commuting behaviour highlight four important margins of adjustment; vehicle investment, commuting mode, firm location and residential location. We study those four margins using an event study and regression discontinuity methods, and exploit the randomness of the precise borders and differential exposure of affected individuals based on their pre-existing commuting choices. We show the initial announcement of the ULEZ had large, significant positive effects on adoption of ultra-low emission vehicles. The policy had a positive effect on house prices within the zone. Individuals more exposed to the ULEZ used public transport more after the policy is introduced. Finally, we find that firms relocated outside the zone after the policy was announced. Within Greater London, response magnitudes on each margin vary substantially across space.
+abstract: |-
+  Congestion feedback and sorting imply that targeted drivers' responses alone cannot reveal the welfare effects of urban driving charges. We study these mechanisms following the introduction of London's Ultra Low Emission Zone, a daily charge for driving a polluting vehicle in the city centre. Shift-share and boundary designs show the charge raised ultra low emission vehicle adoption and Underground use, raised house prices where residents were exempt, and intensified business churn. A calibrated spatial equilibrium model quantifies the welfare effect of each response. Two fifths of commuters facing the charge pay it, just over a third buy a compliant car and a quarter switch to public transport. Congestion relief offsets about 30 per cent of the fall in driving. Few jobs leave the centre, but because movers ignore the surplus their jobs generated, relocation turns what would otherwise be a net gain into a net cost of similar size to the health benefits.
 
 # Summary. An optional shortened abstract.
 summary: 

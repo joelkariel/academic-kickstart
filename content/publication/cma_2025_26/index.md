@@ -27,7 +27,8 @@ publication_types: ['2']
 publication: 'Review of Industrial Organization'
 publication_short: 'RIO'
 
-abstract: ''
+abstract: |-
+  This article highlights three key projects on which economists at the UK's Competition and Markets Authority (CMA) have worked over the past year: First, we discuss our veterinary services market investigation, where our package of remedies was informed by economic analysis that identified the effect of independent practices' being bought by larger groups. Second, we examine our civil engineering market study: We focus on the role of government in shaping demand and the importance of issues such as pipeline certainty and public sector capability. Third, we present empirical research that has been undertaken by the CMA Microeconomics Unit on supply chains and market power, including new evidence on supply chain length, sector centrality, and how distortions can accumulate through supply linkages.
 summary: ''
 
 tags: []

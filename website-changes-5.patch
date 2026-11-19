@@ -1,0 +1,68 @@
+diff --git a/content/publication/cma_2025_26/index.md b/content/publication/cma_2025_26/index.md
+index 78303e5..3ce9280 100644
+--- a/content/publication/cma_2025_26/index.md
++++ b/content/publication/cma_2025_26/index.md
+@@ -27,7 +27,8 @@ publication_types: ['2']
+ publication: 'Review of Industrial Organization'
+ publication_short: 'RIO'
+ 
+-abstract: ''
++abstract: |-
++  This article highlights three key projects on which economists at the UK's Competition and Markets Authority (CMA) have worked over the past year: First, we discuss our veterinary services market investigation, where our package of remedies was informed by economic analysis that identified the effect of independent practices' being bought by larger groups. Second, we examine our civil engineering market study: We focus on the role of government in shaping demand and the importance of issues such as pipeline certainty and public sector capability. Third, we present empirical research that has been undertaken by the CMA Microeconomics Unit on supply chains and market power, including new evidence on supply chain length, sector centrality, and how distortions can accumulate through supply linkages.
+ summary: ''
+ 
+ tags: []
+diff --git a/content/publication/ulez/index.md b/content/publication/ulez/index.md
+index e83fa77..28f3599 100644
+--- a/content/publication/ulez/index.md
++++ b/content/publication/ulez/index.md
+@@ -1,5 +1,5 @@
+ ---
+-title: 'How does economic activity adapt to pollution pricing?'
++title: 'How do commuters adapt to local pollution pricing?'
+ 
+ # Authors
+ # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+@@ -31,7 +31,8 @@ publication_types: ['3']
+ publication: '_Under review_'
+ publication_short: ''
+ 
+-abstract: Policymakers around the world are exploring ways to tackle greenhouse gas emissions, but when evaluation focuses on narrow margins, policies can have unintended consequences. We study the phased introduction of London's Ultra-Low Emissions Zone (ULEZ), a tax on highly-polluting vehicles. A simple model of location and commuting behaviour highlight four important margins of adjustment; vehicle investment, commuting mode, firm location and residential location. We study those four margins using an event study and regression discontinuity methods, and exploit the randomness of the precise borders and differential exposure of affected individuals based on their pre-existing commuting choices. We show the initial announcement of the ULEZ had large, significant positive effects on adoption of ultra-low emission vehicles. The policy had a positive effect on house prices within the zone. Individuals more exposed to the ULEZ used public transport more after the policy is introduced. Finally, we find that firms relocated outside the zone after the policy was announced. Within Greater London, response magnitudes on each margin vary substantially across space.
++abstract: |-
++  Congestion feedback and sorting imply that targeted drivers' responses alone cannot reveal the welfare effects of urban driving charges. We study these mechanisms following the introduction of London's Ultra Low Emission Zone, a daily charge for driving a polluting vehicle in the city centre. Shift-share and boundary designs show the charge raised ultra low emission vehicle adoption and Underground use, raised house prices where residents were exempt, and intensified business churn. A calibrated spatial equilibrium model quantifies the welfare effect of each response. Two fifths of commuters facing the charge pay it, just over a third buy a compliant car and a quarter switch to public transport. Congestion relief offsets about 30 per cent of the fall in driving. Few jobs leave the centre, but because movers ignore the surplus their jobs generated, relocation turns what would otherwise be a net gain into a net cost of similar size to the health benefits.
+ 
+ # Summary. An optional shortened abstract.
+ summary: 
+diff --git a/layouts/partials/clean_publication.html b/layouts/partials/clean_publication.html
+index dd2110d..ecb80f5 100644
+--- a/layouts/partials/clean_publication.html
++++ b/layouts/partials/clean_publication.html
+@@ -1,10 +1,10 @@
+ {{/* One publication, text only. Input: a publication page. */}}
+ {{ $p := . }}
+ 
+-{{/* Co-authors: skip the highlighted profile (the site owner) and prefix "With". */}}
++{{/* Co-authors: skip the site owner's profile (superuser: true) and prefix "With". */}}
+ {{ $others := slice }}
+ {{ range ($p.GetTerms "authors") }}
+-  {{ if not .Page.Params.highlight_name }}
++  {{ if not .Page.Params.superuser }}
+     {{ $others = $others | append .LinkTitle }}
+   {{ end }}
+ {{ end }}
+@@ -17,8 +17,13 @@
+ 
+ {{ $parts := slice }}
+ {{ if $others }}{{ $parts = $parts | append (printf "With %s" (delimit $others ", " " and " | htmlEscape)) }}{{ end }}
+-{{ with $status }}{{ $parts = $parts | append (. | markdownify) }}{{ end }}
++{{/* A journal name (journal article) is bold. Working-paper statuses stay italic. */}}
++{{ with $status }}
++  {{ $venue := . | markdownify }}
++  {{ if in $p.Params.publication_types "2" }}{{ $venue = printf "<strong>%s</strong>" $venue }}{{ end }}
++  {{ $parts = $parts | append $venue }}
++{{ end }}
+ 
+ <p class="clean-title">{{ $p.Title | markdownify }}</p>
+-{{ if $parts }}<p class="clean-meta">{{ delimit $parts " · " | safeHTML }}</p>{{ end }}
++{{ if $parts }}<p class="clean-meta">{{ delimit $parts " | " | safeHTML }}</p>{{ end }}
+ {{ partial "clean_links.html" (dict "page" $p) }}
